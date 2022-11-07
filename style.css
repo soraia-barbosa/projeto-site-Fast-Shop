@@ -1,39 +1,48 @@
 
-header{
 
-/* display: inline-block; */
+
+:root {
+
+  --color-white: #fff;
 }
 
-.cabecalhoPrincipal .container{
+*(
+
+margin: 0;
+padding: 0;
+
+)
+
+body{
+
+  font-family: Arial, Helvetica, sans-serif;
+  color: (--color-white);
+
+}
+
+.header,
+.navigation_header {
 
 display: flex;
 
-justify-content: flex-start;
-
-flex-wrap: nowrap;
-
 flex-direction: row;
 
-align-items: stretch;
+align-items: center;
 }
 
+.header{
 
-div {
-  /* height: 100px; */
-  display: flex;
-}
-
-#menu {
-
+  height: 3.5em;
+  justify-content: space-between;
 
 }
 
-#logo {
+.navigation_header{
 
-
+  gap: 3em;
+  
 }
 
-#navegacao {
 
 
-}
+
