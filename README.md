@@ -16,5 +16,7 @@
   <h2>Aprendizados</h2>
  
  
-  <li>Aplicação da responsividade da página por meio do recurso Flex-Box.</li>
+  <li>Aplicação da responsividade da página por meio dos seletores CSSFlex-Box.</li>
+  <li>Posicionamento de divs, lado a lado, no header.</li>
+  <li>Aplicação dos seletores CSS: flex-direction row, gap, </li>
  
