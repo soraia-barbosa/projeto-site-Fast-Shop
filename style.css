@@ -1,39 +1,45 @@
+*{
 
-header{
+  margin: 7px;
+  margin-right: inherit;
 
-/* display: inline-block; */
 }
 
-.cabecalhoPrincipal .container{
+body{
+
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+header, .menu, .search-box, .logo_header, .navigation_header{
 
 display: flex;
 
-justify-content: flex-start;
-
-flex-wrap: nowrap;
-
 flex-direction: row;
 
-align-items: stretch;
+align-items: center;
+
+background-color: white;
+
+height: 4.0em;
+
+justify-content: flex-start;
+
+padding: 0 0;
+
+margin: auto;
+}
+
+.navigation_header{
+
+  gap: 3em;
+
 }
 
 
-div {
-  /* height: 100px; */
-  display: flex;
-}
-
-#menu {
+  
 
 
-}
 
-#logo {
-
-
-}
-
-#navegacao {
-
-
-}
