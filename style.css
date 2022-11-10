@@ -13,7 +13,7 @@ body{
 
 
 
-header, .menu, .search-box, .logo_header, .navigation_header{
+header, .menu_hamburguer, .menu .search-box, .logo_header, .navigation_header{
 
 display: flex;
 
@@ -34,7 +34,7 @@ margin: auto;
 
 .navigation_header{
 
-  gap: 3em;
+  gap: 2em;
 
 }
 
