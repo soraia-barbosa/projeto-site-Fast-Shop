@@ -18,5 +18,6 @@
  
   <li>Aplicação da responsividade da página por meio dos seletores CSSFlex-Box.</li>
   <li>Posicionamento de divs, lado a lado, no header.</li>
-  <li>Aplicação dos seletores CSS: flex-direction row, gap, </li>
+  <li>Inserção de forma geométrica (retângulo) com conteúdo centralizado. </li>
+  <li>Aplicação dos seletores CSS: flex-direction row, gap, margin, justify-content, align-items, width, height </li>
  
