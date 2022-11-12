@@ -6,7 +6,7 @@ margin: 0;
 header, body{
 
 
-font-family: Arial, Helvetica, sans-serif;
+font-family: sans-serif;
 
 }
 
@@ -50,7 +50,59 @@ justify-content: flex-start;
 
 }
 
-p{
+.sessao {
+
+  margin-top: 40px;
+  font-size: small;
+  text-indent: 20px;
+
+}
+
+a {
+
+  text-decoration: none;
+  
+}
+
+.content{
+
+  margin-top: 40px;
+
+}
+.titulo {
+
+  text-indent: 10px;
+  justify-content: right;
+  font: 30px sans-serif;
+  
+}
+
+ul {
+
+  
+
+}
+
+.produto {
+
+  margin: 20px;
+  margin-top: 20px;
+  background: transparent;
+  width: 45%;
+  height: 45%;
+  border: thin solid rgb(206, 199, 199);
+  border-radius: 0.5em;
+  
+
+}
+
+.foto_produto {
+
+  width: 70%;
+  display: flex;
+  margin: auto;
+
+}
 
   
 
