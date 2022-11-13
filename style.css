@@ -69,19 +69,20 @@ a {
   margin-top: 40px;
 
 }
-.titulo {
+.titulo{
 
-  text-indent: 10px;
+  text-indent: 30px;
   justify-content: right;
-  font: 30px sans-serif;
+  font: 26px sans-serif;
   
 }
 
-ul {
+
+.info_complementar li a{
 
   
-
 }
+
 
 .produto {
 
