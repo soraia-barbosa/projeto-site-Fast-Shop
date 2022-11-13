@@ -76,7 +76,7 @@ a {
   
 }
 
-.content {
+main {
 
   margin-top: 40px;
 
@@ -125,22 +125,34 @@ padding: 10px;
 }
 
 .foto_produto {
-width: 70%;
-display: flex;
-margin: auto;
-flex-direction: row-reverse;
+
+width: 70%;
+display: flex;
+margin: auto;
+flex-direction: row-reverse;
 }
 
 
 .fotos_produto1, .fotos_produto3, .fotos_produto4, .fotos_produto5 {
 
-  
-  margin: 40px;
+  display:inline-table;
   width: 18%;
   height: 18%;
   border: thin solid rgb(206, 199, 199);
   border-radius: 0.5em;
-  margin: auto;
+  margin: 0;
+
+}
+
+.fotos_produto1 {
+
+  margin-left: 40px;
+
+}
+
+.fotos_produto3, .fotos_produto4, .fotos_produto5 {
+
+  margin: 0px;
 
 }
 
