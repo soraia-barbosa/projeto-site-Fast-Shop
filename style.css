@@ -108,6 +108,16 @@ main {
 display: flex;
 text-indent: 30px;
 padding: 10px;
+font-family: "Open Sans", sans-serif;
+font-size: 12px;
+
+}
+
+
+.info_complementar li {
+
+  margin-left: 0%;
+  color: green;
 }
 
 
@@ -152,7 +162,7 @@ flex-direction: row-reverse;
 
 .fotos_produto3, .fotos_produto4, .fotos_produto5 {
 
-  margin: 0px;
+  margin: 0;
 
 }
 
